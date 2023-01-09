@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/home/zaa/PROJETOS-BASE/Arquivos Financeiro/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1508112299.index
+873945333.index
+2461109417.index
+2098138538.index
+1910766400.index

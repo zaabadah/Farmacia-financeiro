@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.MappedSuperclass"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.GeneriDomain"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.dao.GenericDAO"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.ParameterizedType"/>
+    <fullyQualifiedTypeName name="org.hibernate.Criteria"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Cidade"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.dao.FornecedorDAO"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Produto"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Fornecedor"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.dao.PessoaDAO"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Usuario"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.junit.Ignore"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Pessoa"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Cliente"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+    <fullyQualifiedTypeName name="org.omnifaces.util.Messages.Message"/>
+    <fullyQualifiedTypeName name="org.omnifaces.util.Messages"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.domain.Estado"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.dao.EstadoDAO"/>
+    <fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="javax.faces.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletContextListener"/>
+    <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="org.hibernate.criterion.Order"/>
+    <fullyQualifiedTypeName name="br.com.financeiro.dao.CidadeDAO"/>
+    <fullyQualifiedTypeName name="javax.persistence.Transient"/>
+</qualifiedTypeNameHistroy>
